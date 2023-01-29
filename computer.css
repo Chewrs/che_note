@@ -1,0 +1,22 @@
+.all_big_box{
+    max-width: 800px;
+    margin: 30px auto;
+}
+.box_text{
+    max-width: 800px;
+    margin: 30px 30px;
+    color: #222831;
+    font-family: 'Roboto', sans-serif;
+}
+
+.top_img_box{
+    max-width: 800px;
+    margin: 30px 30px;
+    border-radius: 20px;
+
+}
+
+.top_img{
+    width: 100%;
+    border-radius: 20px;
+}
